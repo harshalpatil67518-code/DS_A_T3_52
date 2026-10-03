@@ -1,0 +1,14 @@
+# virtual environments
+.venv/
+.venv-feast/
+.venv-mlflow/
+practical5_feast/.venv-feast/
+
+# MLFLOW
+mlflow.db
+mlartifacts/
+
+#MLFLOW generated confusion matrices 
+confusion_matrix_*.png
+
+practical5_feast/iris_feature_repo/feature_repo/data/*.db
