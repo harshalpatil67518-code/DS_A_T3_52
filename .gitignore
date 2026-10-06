@@ -12,3 +12,4 @@ mlartifacts/
 confusion_matrix_*.png
 
 practical5_feast/iris_feature_repo/feature_repo/data/*.db
+mlruns/
